@@ -2,9 +2,6 @@ m1
 m2:wq
 m3
 m4
-<<<<<<< HEAD
-=======
 m5
 alkcn
->>>>>>> a1e78d78676283d08aa703517cbbb1d08ec4ea37
 m5
